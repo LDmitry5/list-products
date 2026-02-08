@@ -9,10 +9,9 @@ const boxStyle: CSSProperties = {
   width: 515,
   background: "linear-gradient(180deg, rgba(35, 35, 35, 0.03) 0%, rgba(35, 35, 35, 0) 50%)",
   borderRadius: 34,
-  paddingBlock: 58,
-  paddingInline: 48,
+  padding: 48,
   border: "1px solid #40a9ff",
-  margin: "10px auto",
+  margin: "20px auto",
   boxSizing: "border-box",
 };
 

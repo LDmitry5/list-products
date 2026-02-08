@@ -1,0 +1,64 @@
+.title {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 110%;
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: #232323;
+  margin: 0 0 12px;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  text-align: center;
+  color: #e0e0e0;
+  margin: 0;
+}
+
+.submit {
+  border: 1px solid #367aff;
+  border-radius: 12px;
+  padding: 16px 8px;
+  width: 100%;
+  height: 54px;
+  box-shadow:
+    inset 0 -2px 0 1px rgba(0, 0, 0, 0.08),
+    0 8px 8px 0 rgba(54, 122, 255, 0.03);
+  background: #242edb, linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.12) 100%);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  color: #fff;
+}
+
+.hr {
+  width: 100%;
+  color: #ededed;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ebebeb;
+  padding: 0 10px;
+}
+
+.textCreate {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  text-align: center;
+  color: #6c6c6c;
+}
+
+.btnCreate {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #242edb;
+  padding: 0 5px;
+}

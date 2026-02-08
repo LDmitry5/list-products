@@ -1,0 +1,48 @@
+.search {
+  width: 50%;
+  background: #f3f3f3;
+}
+
+.searchText {
+  font-weight: 700;
+  font-size: 24px;
+  color: #202020;
+}
+
+.wrapSearch {
+  padding: 26px 30px;
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff;
+}
+
+.wrapAddProduct {
+  padding: 26px 30px;
+  background: #fff;
+}
+
+.addProductText {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  color: #333;
+}
+
+.my-pagination {
+  background-color: #fff;
+  padding: 10px;
+}
+
+.btnPlus {
+  border-radius: 23px;
+  padding: 4px;
+  width: 52px;
+  height: 27px;
+  background: #242edb;
+}
+
+.btnAddProduct {
+  padding: 10px 20px;
+  min-height: 42px;
+  background: #242edb;
+}
